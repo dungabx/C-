@@ -1,0 +1,15 @@
+D:\C#\C-\cs02\bin\Debug\net9.0\cs02.exe
+D:\C#\C-\cs02\bin\Debug\net9.0\cs02.deps.json
+D:\C#\C-\cs02\bin\Debug\net9.0\cs02.runtimeconfig.json
+D:\C#\C-\cs02\bin\Debug\net9.0\cs02.dll
+D:\C#\C-\cs02\bin\Debug\net9.0\cs02.pdb
+D:\C#\C-\cs02\obj\Debug\net9.0\cs02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-\cs02\obj\Debug\net9.0\cs02.AssemblyInfoInputs.cache
+D:\C#\C-\cs02\obj\Debug\net9.0\cs02.AssemblyInfo.cs
+D:\C#\C-\cs02\obj\Debug\net9.0\cs02.csproj.CoreCompileInputs.cache
+D:\C#\C-\cs02\obj\Debug\net9.0\cs02.sourcelink.json
+D:\C#\C-\cs02\obj\Debug\net9.0\cs02.dll
+D:\C#\C-\cs02\obj\Debug\net9.0\refint\cs02.dll
+D:\C#\C-\cs02\obj\Debug\net9.0\cs02.pdb
+D:\C#\C-\cs02\obj\Debug\net9.0\cs02.genruntimeconfig.cache
+D:\C#\C-\cs02\obj\Debug\net9.0\ref\cs02.dll
