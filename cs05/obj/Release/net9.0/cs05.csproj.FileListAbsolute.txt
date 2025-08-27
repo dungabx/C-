@@ -1,0 +1,15 @@
+D:\C#\C-\cs05\bin\Release\net9.0\cs05.exe
+D:\C#\C-\cs05\bin\Release\net9.0\cs05.deps.json
+D:\C#\C-\cs05\bin\Release\net9.0\cs05.runtimeconfig.json
+D:\C#\C-\cs05\bin\Release\net9.0\cs05.dll
+D:\C#\C-\cs05\bin\Release\net9.0\cs05.pdb
+D:\C#\C-\cs05\obj\Release\net9.0\cs05.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-\cs05\obj\Release\net9.0\cs05.AssemblyInfoInputs.cache
+D:\C#\C-\cs05\obj\Release\net9.0\cs05.AssemblyInfo.cs
+D:\C#\C-\cs05\obj\Release\net9.0\cs05.csproj.CoreCompileInputs.cache
+D:\C#\C-\cs05\obj\Release\net9.0\cs05.sourcelink.json
+D:\C#\C-\cs05\obj\Release\net9.0\cs05.dll
+D:\C#\C-\cs05\obj\Release\net9.0\refint\cs05.dll
+D:\C#\C-\cs05\obj\Release\net9.0\cs05.pdb
+D:\C#\C-\cs05\obj\Release\net9.0\cs05.genruntimeconfig.cache
+D:\C#\C-\cs05\obj\Release\net9.0\ref\cs05.dll
