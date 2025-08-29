@@ -1,0 +1,5 @@
+D:\C#\C-\cs08\bin\Release\net9.0\publish\cs08.exe
+D:\C#\C-\cs08\bin\Release\net9.0\publish\cs08.dll
+D:\C#\C-\cs08\bin\Release\net9.0\publish\cs08.deps.json
+D:\C#\C-\cs08\bin\Release\net9.0\publish\cs08.runtimeconfig.json
+D:\C#\C-\cs08\bin\Release\net9.0\publish\cs08.pdb
