@@ -1,0 +1,15 @@
+D:\C#\C-\cs10\bin\Debug\net9.0\cs10.exe
+D:\C#\C-\cs10\bin\Debug\net9.0\cs10.deps.json
+D:\C#\C-\cs10\bin\Debug\net9.0\cs10.runtimeconfig.json
+D:\C#\C-\cs10\bin\Debug\net9.0\cs10.dll
+D:\C#\C-\cs10\bin\Debug\net9.0\cs10.pdb
+D:\C#\C-\cs10\obj\Debug\net9.0\cs10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-\cs10\obj\Debug\net9.0\cs10.AssemblyInfoInputs.cache
+D:\C#\C-\cs10\obj\Debug\net9.0\cs10.AssemblyInfo.cs
+D:\C#\C-\cs10\obj\Debug\net9.0\cs10.csproj.CoreCompileInputs.cache
+D:\C#\C-\cs10\obj\Debug\net9.0\cs10.sourcelink.json
+D:\C#\C-\cs10\obj\Debug\net9.0\cs10.dll
+D:\C#\C-\cs10\obj\Debug\net9.0\refint\cs10.dll
+D:\C#\C-\cs10\obj\Debug\net9.0\cs10.pdb
+D:\C#\C-\cs10\obj\Debug\net9.0\cs10.genruntimeconfig.cache
+D:\C#\C-\cs10\obj\Debug\net9.0\ref\cs10.dll
