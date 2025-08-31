@@ -1,0 +1,5 @@
+D:\C#\C-\cs11\bin\Release\net9.0\publish\cs11.exe
+D:\C#\C-\cs11\bin\Release\net9.0\publish\cs11.dll
+D:\C#\C-\cs11\bin\Release\net9.0\publish\cs11.deps.json
+D:\C#\C-\cs11\bin\Release\net9.0\publish\cs11.runtimeconfig.json
+D:\C#\C-\cs11\bin\Release\net9.0\publish\cs11.pdb
