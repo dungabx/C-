@@ -1,0 +1,15 @@
+D:\C#\C-\cs13\bin\Release\net9.0\cs13.exe
+D:\C#\C-\cs13\bin\Release\net9.0\cs13.deps.json
+D:\C#\C-\cs13\bin\Release\net9.0\cs13.runtimeconfig.json
+D:\C#\C-\cs13\bin\Release\net9.0\cs13.dll
+D:\C#\C-\cs13\bin\Release\net9.0\cs13.pdb
+D:\C#\C-\cs13\obj\Release\net9.0\cs13.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-\cs13\obj\Release\net9.0\cs13.AssemblyInfoInputs.cache
+D:\C#\C-\cs13\obj\Release\net9.0\cs13.AssemblyInfo.cs
+D:\C#\C-\cs13\obj\Release\net9.0\cs13.csproj.CoreCompileInputs.cache
+D:\C#\C-\cs13\obj\Release\net9.0\cs13.sourcelink.json
+D:\C#\C-\cs13\obj\Release\net9.0\cs13.dll
+D:\C#\C-\cs13\obj\Release\net9.0\refint\cs13.dll
+D:\C#\C-\cs13\obj\Release\net9.0\cs13.pdb
+D:\C#\C-\cs13\obj\Release\net9.0\cs13.genruntimeconfig.cache
+D:\C#\C-\cs13\obj\Release\net9.0\ref\cs13.dll
