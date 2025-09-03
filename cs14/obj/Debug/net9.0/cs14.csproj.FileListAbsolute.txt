@@ -1,0 +1,15 @@
+D:\C#\C-\cs14\obj\Debug\net9.0\cs14.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-\cs14\obj\Debug\net9.0\cs14.AssemblyInfoInputs.cache
+D:\C#\C-\cs14\obj\Debug\net9.0\cs14.AssemblyInfo.cs
+D:\C#\C-\cs14\obj\Debug\net9.0\cs14.csproj.CoreCompileInputs.cache
+D:\C#\C-\cs14\obj\Debug\net9.0\cs14.sourcelink.json
+D:\C#\C-\cs14\bin\Debug\net9.0\cs14.exe
+D:\C#\C-\cs14\bin\Debug\net9.0\cs14.deps.json
+D:\C#\C-\cs14\bin\Debug\net9.0\cs14.runtimeconfig.json
+D:\C#\C-\cs14\bin\Debug\net9.0\cs14.dll
+D:\C#\C-\cs14\bin\Debug\net9.0\cs14.pdb
+D:\C#\C-\cs14\obj\Debug\net9.0\cs14.dll
+D:\C#\C-\cs14\obj\Debug\net9.0\refint\cs14.dll
+D:\C#\C-\cs14\obj\Debug\net9.0\cs14.pdb
+D:\C#\C-\cs14\obj\Debug\net9.0\cs14.genruntimeconfig.cache
+D:\C#\C-\cs14\obj\Debug\net9.0\ref\cs14.dll
