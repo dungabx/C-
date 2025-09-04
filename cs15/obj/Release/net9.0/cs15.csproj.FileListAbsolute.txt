@@ -1,0 +1,15 @@
+D:\C#\C-\cs15\bin\Release\net9.0\cs15.exe
+D:\C#\C-\cs15\bin\Release\net9.0\cs15.deps.json
+D:\C#\C-\cs15\bin\Release\net9.0\cs15.runtimeconfig.json
+D:\C#\C-\cs15\bin\Release\net9.0\cs15.dll
+D:\C#\C-\cs15\bin\Release\net9.0\cs15.pdb
+D:\C#\C-\cs15\obj\Release\net9.0\cs15.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-\cs15\obj\Release\net9.0\cs15.AssemblyInfoInputs.cache
+D:\C#\C-\cs15\obj\Release\net9.0\cs15.AssemblyInfo.cs
+D:\C#\C-\cs15\obj\Release\net9.0\cs15.csproj.CoreCompileInputs.cache
+D:\C#\C-\cs15\obj\Release\net9.0\cs15.sourcelink.json
+D:\C#\C-\cs15\obj\Release\net9.0\cs15.dll
+D:\C#\C-\cs15\obj\Release\net9.0\refint\cs15.dll
+D:\C#\C-\cs15\obj\Release\net9.0\cs15.pdb
+D:\C#\C-\cs15\obj\Release\net9.0\cs15.genruntimeconfig.cache
+D:\C#\C-\cs15\obj\Release\net9.0\ref\cs15.dll
