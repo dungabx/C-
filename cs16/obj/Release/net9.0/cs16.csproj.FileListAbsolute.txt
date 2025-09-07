@@ -1,0 +1,15 @@
+D:\C#\C-\cs16\bin\Release\net9.0\cs16.exe
+D:\C#\C-\cs16\bin\Release\net9.0\cs16.deps.json
+D:\C#\C-\cs16\bin\Release\net9.0\cs16.runtimeconfig.json
+D:\C#\C-\cs16\bin\Release\net9.0\cs16.dll
+D:\C#\C-\cs16\bin\Release\net9.0\cs16.pdb
+D:\C#\C-\cs16\obj\Release\net9.0\cs16.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-\cs16\obj\Release\net9.0\cs16.AssemblyInfoInputs.cache
+D:\C#\C-\cs16\obj\Release\net9.0\cs16.AssemblyInfo.cs
+D:\C#\C-\cs16\obj\Release\net9.0\cs16.csproj.CoreCompileInputs.cache
+D:\C#\C-\cs16\obj\Release\net9.0\cs16.sourcelink.json
+D:\C#\C-\cs16\obj\Release\net9.0\cs16.dll
+D:\C#\C-\cs16\obj\Release\net9.0\refint\cs16.dll
+D:\C#\C-\cs16\obj\Release\net9.0\cs16.pdb
+D:\C#\C-\cs16\obj\Release\net9.0\cs16.genruntimeconfig.cache
+D:\C#\C-\cs16\obj\Release\net9.0\ref\cs16.dll
