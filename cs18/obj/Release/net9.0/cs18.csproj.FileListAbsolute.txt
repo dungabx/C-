@@ -1,0 +1,15 @@
+D:\C#\C-\cs18\bin\Release\net9.0\cs18.exe
+D:\C#\C-\cs18\bin\Release\net9.0\cs18.deps.json
+D:\C#\C-\cs18\bin\Release\net9.0\cs18.runtimeconfig.json
+D:\C#\C-\cs18\bin\Release\net9.0\cs18.dll
+D:\C#\C-\cs18\bin\Release\net9.0\cs18.pdb
+D:\C#\C-\cs18\obj\Release\net9.0\cs18.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-\cs18\obj\Release\net9.0\cs18.AssemblyInfoInputs.cache
+D:\C#\C-\cs18\obj\Release\net9.0\cs18.AssemblyInfo.cs
+D:\C#\C-\cs18\obj\Release\net9.0\cs18.csproj.CoreCompileInputs.cache
+D:\C#\C-\cs18\obj\Release\net9.0\cs18.sourcelink.json
+D:\C#\C-\cs18\obj\Release\net9.0\cs18.dll
+D:\C#\C-\cs18\obj\Release\net9.0\refint\cs18.dll
+D:\C#\C-\cs18\obj\Release\net9.0\cs18.pdb
+D:\C#\C-\cs18\obj\Release\net9.0\cs18.genruntimeconfig.cache
+D:\C#\C-\cs18\obj\Release\net9.0\ref\cs18.dll
