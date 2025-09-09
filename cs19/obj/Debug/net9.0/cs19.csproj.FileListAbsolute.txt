@@ -1,0 +1,15 @@
+D:\C#\C-\cs19\bin\Debug\net9.0\cs19.exe
+D:\C#\C-\cs19\bin\Debug\net9.0\cs19.deps.json
+D:\C#\C-\cs19\bin\Debug\net9.0\cs19.runtimeconfig.json
+D:\C#\C-\cs19\bin\Debug\net9.0\cs19.dll
+D:\C#\C-\cs19\bin\Debug\net9.0\cs19.pdb
+D:\C#\C-\cs19\obj\Debug\net9.0\cs19.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-\cs19\obj\Debug\net9.0\cs19.AssemblyInfoInputs.cache
+D:\C#\C-\cs19\obj\Debug\net9.0\cs19.AssemblyInfo.cs
+D:\C#\C-\cs19\obj\Debug\net9.0\cs19.csproj.CoreCompileInputs.cache
+D:\C#\C-\cs19\obj\Debug\net9.0\cs19.sourcelink.json
+D:\C#\C-\cs19\obj\Debug\net9.0\cs19.dll
+D:\C#\C-\cs19\obj\Debug\net9.0\refint\cs19.dll
+D:\C#\C-\cs19\obj\Debug\net9.0\cs19.pdb
+D:\C#\C-\cs19\obj\Debug\net9.0\cs19.genruntimeconfig.cache
+D:\C#\C-\cs19\obj\Debug\net9.0\ref\cs19.dll
